@@ -14,11 +14,11 @@
 ## Description
  
 Keep track of your E-Commerce products and stock with this MySql database! 
-## License
- 
-* [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
   
 ## Links
+
+* [Demo Video](https://youtu.be/5wuHBpEd2n8) 
  
 * [Github Repository](https://github.com/Drowekorte/E-Commerce-Back-End.git) 
 
